@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.fablabni.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>FabLab - Milling</title>
+ <link>http://www.fablabni.com/tags/milling</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Colour changing Mood light</title>
+ <link>http://www.fablabni.com/what/make/colour-changing-mood-light</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-1&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/IMG_3338.JPG?itok=tJzPMBWd&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/moodlight.JPG?itok=Ab6k39Kz&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;The Mood light is a small light that is powered by a 9v battery and controlled by programmable micro controller (Mini – computer), &lt;/p&gt;
+&lt;p&gt;Mill, clean and tin all of the RGB boards&lt;/p&gt;
+&lt;p&gt;Load  RGB program onto chips using ATTINY44 programmer&lt;/p&gt;
+&lt;p&gt;Solder the pre-programmed chips and surface mount components to the RGB boards&lt;/p&gt;
+&lt;p&gt;Cut out a square of white acrylic that is 20cm by 20cm on with the laser cutter&lt;/p&gt;
+&lt;p&gt;Cut out the base and battery assembly&lt;/p&gt;
+&lt;p&gt;Heat the acrylic in the oven to 400 °Centigrade&lt;/p&gt;
+&lt;p&gt;Once heated remove from the oven and place on the mould&lt;/p&gt;
+&lt;p&gt;Press the plastic onto the mould with the former and clamp in place&lt;/p&gt;
+&lt;p&gt;Once hardened released from the mould and trim with the gerbil cutter&lt;/p&gt;
+&lt;p&gt;Sand cut edge on the sanding board to make level for gluing&lt;/p&gt;
+&lt;p&gt;Assemble the pre-cut battery and back plate assembly&lt;/p&gt;
+&lt;p&gt;Install the circuitry&lt;/p&gt;
+&lt;p&gt;Glue the dome and base plate assembly with solvent cement&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Video  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;file&quot;&gt;&lt;a href=&quot;http://www.fablabni.com/sites/default/files/videos/MVI_3343.MOV&quot; type=&quot;video/quicktime; length=48285981&quot; class=&quot;file-icon mime-video-quicktime&quot;&gt;MVI_3343.MOV&lt;/a&gt;&lt;/div&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/eagle&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Eagle&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/milling&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Milling&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/moulding&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Moulding&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Electronics Bench    &lt;/li&gt;
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+      &lt;li&gt;
+      Roland Modela MDX-20 Desktop Milling Machine    &lt;/li&gt;
+      &lt;li&gt;
+      Scroll Saw    &lt;/li&gt;
+      &lt;li&gt;
+      ShopBot PRS Alpha    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 27 Jun 2013 16:12:00 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">66 at http://www.fablabni.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.fablabni.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>FabLab - Personal</title>
+ <link>http://www.fablabni.com/type-project/personal</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Digital Paintings</title>
+ <link>http://www.fablabni.com/what/make/digital-paintings</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-1&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/DSC06101.JPG?itok=62xwAuIM&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/DSC06131.JPG?itok=8rmYMlMf&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/downside.jpg?itok=NKLuCK2w&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;Kevin MIller&lt;/p&gt;
+&lt;p&gt;I have created from digital sketches 3d laser cut artforms using FabLab. I digitally paint the original image in an app called Layerpaint on a my android phone. The phone is always with me so it is the perfect thing to pull out and work on if I see something I can use to create an image.&lt;/p&gt;
+&lt;p&gt;Although the images are abstract i usually find the shapes and colours from things in real life, digital painting is incredibly fast for this, before it there has never been a way to record a series of colours in a few seconds. I  tweak the images in Photoshop and covert to vector patterns in Illustrator and Inkscape. After laser cutting the work is (much more slowly!) painted and assembled by hand in my studio using the original digital painting as reference.&lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Wed, 25 Sep 2013 14:44:37 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">83 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Laser Engraved Hand Sketches</title>
+ <link>http://www.fablabni.com/what/make/laser-engraved-hand-sketches</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-2&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/DSC_0241a_0.jpg?itok=vlIZaPps&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/934695_10152217791256677_823147332_n_0.jpg?itok=v5jY7l-_&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/image_0.jpeg?itok=2K70iiy7&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;These beautiful objects were created from sketches drawn by hand, scanned then imported in to Inkscape and coverted to Bitmaps.  The files were then engraved and cut on 6mm clear perspex on the laser cutter. &lt;/p&gt;
+&lt;p&gt;Jena Magennis&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&#039;I came to FabLab to assist in my final degree work at University of Ulster where i was using the lasercutter to assist in my experimentation and final piece. The main outcome of my work was interpreting my hand sketches and transferring these onto perspex, which were all to represent thoughts that I had throughout my final degree. Fablab provided the much needed facility of a lasercutter and assisted me in attempting to learn how to use the programmes and how to transfer my intricate hand sketches into appropriate media that the lasercutter could read. I also had the option of using wood as well as perspex.&lt;/em&gt;&#039;&lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Wed, 25 Sep 2013 14:30:59 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">82 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>T-Shirt printing Fab Lab style!</title>
+ <link>http://www.fablabni.com/what/make/t-shirt-printing-fab-lab-style</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-3&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Shirt.png?itok=ILQp3CLc&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Paddy%20shirt%201.png?itok=SHSUZqBM&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Paddy%20shirt%202.png?itok=2DX3AFcA&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Paddy%20shirt%203.png?itok=XxCt7NsB&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;Make your very own personalised screen printed T-shirts in Fab Lab:&lt;/p&gt;
+&lt;p&gt;Using your chosen images import into Inkscape and convert to vectors by tracing the image as a bitmap&lt;/p&gt;
+&lt;p&gt;Or for text – choose your font and lettering style and get typing&lt;/p&gt;
+&lt;p&gt;Arrange the final design&lt;/p&gt;
+&lt;p&gt;Export for final design as a Jpeg&lt;/p&gt;
+&lt;p&gt;In Cut Studio open up your final design – convert the image to outline and send to the vinyl cutter.&lt;/p&gt;
+&lt;p&gt;Once cut you will need to grab a pair of tweezers and start removing&lt;/p&gt;
+&lt;p&gt;Simply apply transfer tape over the top of your image and select a blank silk screen, peel off the vinyl from its backing and carefully stick it down onto the inside of the silk screen&lt;/p&gt;
+&lt;p&gt;Remove the transfer tape to be left with your silk screen image, mask up to the sides using spare vinyl and you are ready to go.&lt;/p&gt;
+&lt;p&gt;Load with textile paint in a line across the top of your vinyl and drag it down evenly, remove the frame ensuring no smudging&lt;/p&gt;
+&lt;p&gt;Allow to dry and there you have it!&lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Roland GX24 Vinyl Cutter    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 14 Feb 2013 13:08:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">17 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Laser Cut Press Fit Lamp</title>
+ <link>http://www.fablabni.com/what/make/laser-cut-press-fit-lamp</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-4&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/ilovelamp.jpeg?itok=CjxUvnsi&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;Bronagh has always had a flair for colour!&lt;/p&gt;
+&lt;p&gt;She took this talent to a whole new level in creating this press fit laser cut lamp. She started out in Inkscape drawing a simple cube and cutting off the corner. She then proceeded to research and design a stained glass window to be cut out of each side of the cube. Using the laser cutter this was quickly achieved. Now came the tricky part. each piece of acrylic needed to be cut the exact correct size if it were to fit snugly into the frame. Dependant upon the size each peice needed to be resized by between 1-10% to account for the burn of the laser!&lt;/p&gt;
+&lt;p&gt;The pieces were pressed in and voila! Hey presto an amazing looking press fit lamp.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Made in FABlab Belfast by Bronagh&lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/business&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Business&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/school&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;School&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Electronics Bench    &lt;/li&gt;
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 13 Oct 2016 15:00:22 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">192 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Laser Marquetry</title>
+ <link>http://www.fablabni.com/what/make/laser-marquetry</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-5&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Coaster.jpg?itok=_xTgmpg-&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p class=&quot;x_MsoNormal&quot;&gt;Sometimes the simplest projects can be the most satisfying and visually striking.  Anyone who comes into the lab will soon learn about Paddy’s passion for woodwork. This little project is the result of that.&lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt;Marquetry is the process of inlaying small coloured pieces of wood into a larger piece to create a picture or a pattern.  It is often seen on extremely high quality vintage furniture. Traditionally this would be performed with extremely sharp chisels and gouges of various sizes. Paddy decided to “Fab it up”&lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt;Using the Epilog Mini laser cutter, the pattern was etched into the plywood base. The settings were adjusted so that the etch would be approximately 0.25mm deep.&lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt;The same pattern was then adjusted in inkscape so that it would then be a vector pattern. The pattern was increased in scaled up by approximately 1% of the original size ( This takes into account the “kerf” of the laser beam). The pattern was cut out of very thin solid wood veneers and stuck into the etch of the plywood base.&lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt;After a very light sanding the cellulose finish was applied to bring out the contrasting colours of the wood veneers and plywood.&lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt;Why not come along and have a go at “digital marquetry” in the lab&lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt; &lt;/p&gt;
+&lt;p class=&quot;x_MsoNormal&quot;&gt;Created in FABlab Belfast by Paddy&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 13 Oct 2016 13:56:23 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">191 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>3D printed robotic arm</title>
+ <link>http://www.fablabni.com/what/make/3d-printed-robotic-arm</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-6&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/robotic%20arm.jpeg?itok=kkPB9_5D&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;As a keen robotics enthusiast Steven has always dreamt of making his own robot!&lt;/p&gt;
+&lt;p&gt;This is the InMoov completely 3D printed robot. All files are open source. They are able to be downloaded from &lt;a href=&quot;https://inmoov.fr/&quot;&gt;https://inmoov.fr/&lt;/a&gt; they can be imported into Blender 3D and adjusted. Once you are happy with the design you can send them over to a 3D printer and print them! Then you&#039;re left with a rather large robotic jigsaw puzzle! Once it is constructed, servos can be installed. The servos are then wired upto an Arduino Mega (the mega allows the use of alot more servos and inputs), a very simple code can then be constructed to make things move and work! This robot has been coded to play Rock, Paper Scissors! Why not arrange to come in the lab and take a look! You can always start small and work up to something of this scale.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Created in FABlab Belfast by Steven&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;file&quot;&gt;&lt;a href=&quot;http://www.fablabni.com/sites/default/files/IMG_1147_0.MOV&quot; type=&quot;video/quicktime; length=1852058&quot; class=&quot;file-icon mime-video-quicktime&quot;&gt;IMG_1147.MO&lt;/a&gt;&lt;/div&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/business&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Business&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/school&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;School&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/3d-modelling&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;3D Modelling&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      3D Printer    &lt;/li&gt;
+      &lt;li&gt;
+      Electronics Bench    &lt;/li&gt;
+      &lt;li&gt;
+      ShopBot PRS Alpha    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 13 Oct 2016 13:32:05 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">190 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Colour changing Mood light</title>
+ <link>http://www.fablabni.com/what/make/colour-changing-mood-light</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-7&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/IMG_3338.JPG?itok=tJzPMBWd&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/moodlight.JPG?itok=Ab6k39Kz&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;The Mood light is a small light that is powered by a 9v battery and controlled by programmable micro controller (Mini – computer), &lt;/p&gt;
+&lt;p&gt;Mill, clean and tin all of the RGB boards&lt;/p&gt;
+&lt;p&gt;Load  RGB program onto chips using ATTINY44 programmer&lt;/p&gt;
+&lt;p&gt;Solder the pre-programmed chips and surface mount components to the RGB boards&lt;/p&gt;
+&lt;p&gt;Cut out a square of white acrylic that is 20cm by 20cm on with the laser cutter&lt;/p&gt;
+&lt;p&gt;Cut out the base and battery assembly&lt;/p&gt;
+&lt;p&gt;Heat the acrylic in the oven to 400 °Centigrade&lt;/p&gt;
+&lt;p&gt;Once heated remove from the oven and place on the mould&lt;/p&gt;
+&lt;p&gt;Press the plastic onto the mould with the former and clamp in place&lt;/p&gt;
+&lt;p&gt;Once hardened released from the mould and trim with the gerbil cutter&lt;/p&gt;
+&lt;p&gt;Sand cut edge on the sanding board to make level for gluing&lt;/p&gt;
+&lt;p&gt;Assemble the pre-cut battery and back plate assembly&lt;/p&gt;
+&lt;p&gt;Install the circuitry&lt;/p&gt;
+&lt;p&gt;Glue the dome and base plate assembly with solvent cement&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Video  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;file&quot;&gt;&lt;a href=&quot;http://www.fablabni.com/sites/default/files/videos/MVI_3343.MOV&quot; type=&quot;video/quicktime; length=48285981&quot; class=&quot;file-icon mime-video-quicktime&quot;&gt;MVI_3343.MOV&lt;/a&gt;&lt;/div&gt;  &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/eagle&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Eagle&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/milling&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Milling&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/moulding&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Moulding&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Electronics Bench    &lt;/li&gt;
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+      &lt;li&gt;
+      Roland Modela MDX-20 Desktop Milling Machine    &lt;/li&gt;
+      &lt;li&gt;
+      Scroll Saw    &lt;/li&gt;
+      &lt;li&gt;
+      ShopBot PRS Alpha    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 27 Jun 2013 16:12:00 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">66 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Reverse Graffiti </title>
+ <link>http://www.fablabni.com/what/make/reverse-graffiti</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-8&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Rgraff3web.JPG?itok=42uNd2bx&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/RGraffitti1WEB.JPG?itok=B3-iez3r&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Rgraff4web.JPG?itok=wvYquXir&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/RGraff2Web.JPG?itok=KrgsECyq&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;Text and images were imported from Photoshop into Partworks for editing in preparation to be cut on the shopbot .  The images had to adjusted slightly to ensure that all parts of the stencil would remain attached to the main body.  The font used in the text of the graffiti was chosen with this in mind too.&lt;/p&gt;
+&lt;p&gt;Using 8&#039; x 4&#039; sheets of 9mm builders Plywood the Shopbot carved the stencil taking three passes for each letter.&lt;/p&gt;
+&lt;p&gt;When the stencils were cut they were mounted by hand against the wall next to a busy arterial route in Belfast city centre.  Using a power-hose to remove the staining on the wall from years of accumulated traffic resulted in a eco friendly socially conscious message.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/business&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Business&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/shopbot&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Shopbot&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      ShopBot PRS Alpha    &lt;/li&gt;
+      &lt;li&gt;
+      Software    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 27 Jun 2013 15:45:12 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">65 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Wall Lettering </title>
+ <link>http://www.fablabni.com/what/make/wall-lettering</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-9&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Unititled%20%28Hope%29%2C%20Helena%20Hamilton%2C%202013_0.JPG?itok=yGnccc0F&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Untitled%20%28Hope%29%2C%20artist-%20Helena%20Hamilton%2C%20quote%20is%20the%20artists%2C%202013.JPG?itok=DTOgZb1q&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;The sentence in the installation &#039;Untitled (Hope)&#039; is a quote from the artist (Helena Hamilton), designed by her using the font Times New Roman. &lt;/p&gt;
+&lt;p&gt;Fab Lab made this installation possible by providing a quality, efficient and educational service, turning my idea into reality.  It was paramount that the lettering was cut precisely and with the correct material, Fab Lab had no problem in helping me with this  - their main objective was creating exactly what I intended. &lt;/p&gt;
+&lt;p&gt;I was show how the process of machining the letters would work and decided the size and materials (18mm Plywood) using Partworks.  The machine was quick in cutting the wood are required little finishing before it was ready to paint. &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/inkscape&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Inkscape&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      ShopBot PRS Alpha    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Tue, 25 Jun 2013 11:40:26 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">61 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Servo controlled Robotic arm.</title>
+ <link>http://www.fablabni.com/what/make/servo-controlled-robotic-arm</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-10&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/roboarm1.JPG?itok=WLPkWqZ2&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Roboarm_0.JPG?itok=e6z0ylgu&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;This is a prototype of a robotic arm moved using servos which are controlled by Arduino through the computer.&lt;/p&gt;
+&lt;p&gt;There are many ways of making a robotic arm to show the Arduinos capability in controlling servos. I used an Arduino Uno R3 with a sensor shield. However this project is possible to some extend without the sensor shield using the available 6 pwm ports on the Arduino.&lt;/p&gt;
+&lt;p&gt;After obtaining your arduino download the software and install it. Connect the servo to the 5v and the ground on the Arduino and the control wire to Digital pin 9. Then open up the Servo example from the Arduino libraries. There is one called sweep which allows you to manipulate the servo in speed, degrees of freedom and resolution. This is a basis for the robotic arm. Using the code you can simply add more servos. It is important to declare these in the code so where “myservo” is introduced you may want to copy that and add “myservo2” and continue down, you can now have 2 independantly moving servos. The principle is the same for any extra servos you may wish to add. Just remember to connect these to the correct PWM pins on the Arduino Digital pins 3,5,6,9,10 and 11.&lt;/p&gt;
+&lt;p&gt;Now you have your servos you are ready to design your robot around these. It is possible to make many different types, I chose to make a robotic arm using 6 Servos. &lt;/p&gt;
+&lt;p&gt;It was constructed using laser cut 3mm plywood and each servo was mounted and an extension cable running from the servo to the arduino.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/arduino&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Arduino&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Wed, 15 May 2013 09:48:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">46 at http://www.fablabni.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.fablabni.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>FabLab - workshop</title>
+ <link>http://www.fablabni.com/tags/workshop</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Get to Know Arduino @ Fablab Belfast</title>
+ <link>http://www.fablabni.com/news/get-know-arduino-fablab-belfast</link>
+ <description>&lt;div class=&quot;field field-name-post-date&quot;&gt;Wednesday, October 30, 2013 - 16:24&lt;/div&gt;&lt;div class=&quot;field field-name-field-image&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/large/public/field/image/IMG_4872.JPG?itok=RZprfAif&quot; width=&quot;480&quot; height=&quot;360&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Want to know what an Arduino is and how to use it?&lt;/p&gt;
+&lt;p&gt;Arduino is the electronics prototyping platform behind recent years’ explosion in interactive artworks and maker’s projects.&lt;/p&gt;
+&lt;p&gt;In this workshop you will be introduced to using both the hardware (Arduino) and the software and with these you can build almost anything, from a simple flashing light to a box of tricks that sends you a Twitter message when your houseplants get thirsty!&lt;/p&gt;
+&lt;p&gt;You will be working with our Arduino’s however, If you would like to bring your own Arduino please do and if you want to bring your own computer, please pre-load it with the Arduino IDE which you can get here:&lt;br /&gt;&lt;a href=&quot;http://arduino.cc/en/Main/Software&quot;&gt;http://arduino.cc/en/Main/Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Come to Fablab to find out more about the little computer that is changing the way we can use computing. &lt;/p&gt;
+&lt;p&gt;Date: Thursday 14th November 18.00 - 20.00&lt;/p&gt;
+&lt;p&gt;Where: &lt;a href=&quot;http://www.fablabni.com/centre/fablab-belfast&quot;&gt;FabLab Belfast&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Places: 6&lt;/p&gt;
+&lt;p&gt;Cost: Free!&lt;/p&gt;
+&lt;p&gt;Booking: Contact Adam, Patrick or Steven &lt;a href=&quot;http://fablabni.com/centre/fablab-belfast&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags&quot;&gt;&lt;div class=&quot;label-above&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;a href=&quot;/tags/arduino&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Arduino&lt;/a&gt;&lt;a href=&quot;/tags/workshop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;workshop&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Oct 2013 16:24:10 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">106 at http://www.fablabni.com</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.fablabni.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>FabLab - Google SketchUp</title>
+ <link>http://www.fablabni.com/tags/google-sketchup</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Architectural Scale Model of Belfast</title>
+ <link>http://www.fablabni.com/what/make/architectural-scale-model-belfast</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-1&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/mms_img-35603752.jpg?itok=-ontX6-I&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/2013-02-25%2018.13.21.jpg?itok=2GILEXOd&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/DSC03823.JPG?itok=4MHde5L9&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/DSC04835.JPG?itok=0XVb7WA7&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;Working with the Forum for Alternative Belfast Fab Lab and Belfast City Council processes were developed to assist the group of architects in building a scale model of Belfast.&lt;/p&gt;
+&lt;p&gt;A 3d model of the city centre was drawn and process of how to create the buildings was experimented with using Fab Lab technology.&lt;/p&gt;
+&lt;p&gt;It was decided that the best and most workable results were achieved by slicing each of the virtual 3D buildings into series of 2D shapes so that they could be laser cut from 6mm Baltic birch plywood and reassembled back to form a wooden model of the particular building.&lt;/p&gt;
+&lt;p&gt;These were placed on Laser engraved base units that include street and pavement detail. &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/community&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Community&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/3d-modelling&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;3D Modelling&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/google-sketchup&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Google SketchUp&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Thu, 14 Feb 2013 13:15:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">18 at http://www.fablabni.com</guid>
+</item>
+</channel>
+</rss>

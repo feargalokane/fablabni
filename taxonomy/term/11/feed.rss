@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.fablabni.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>FabLab - Arduino</title>
+ <link>http://www.fablabni.com/tags/arduino</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Get to Know Arduino @ Fablab Belfast</title>
+ <link>http://www.fablabni.com/news/get-know-arduino-fablab-belfast</link>
+ <description>&lt;div class=&quot;field field-name-post-date&quot;&gt;Wednesday, October 30, 2013 - 16:24&lt;/div&gt;&lt;div class=&quot;field field-name-field-image&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/large/public/field/image/IMG_4872.JPG?itok=RZprfAif&quot; width=&quot;480&quot; height=&quot;360&quot; /&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body&quot;&gt;&lt;p&gt;Want to know what an Arduino is and how to use it?&lt;/p&gt;
+&lt;p&gt;Arduino is the electronics prototyping platform behind recent years’ explosion in interactive artworks and maker’s projects.&lt;/p&gt;
+&lt;p&gt;In this workshop you will be introduced to using both the hardware (Arduino) and the software and with these you can build almost anything, from a simple flashing light to a box of tricks that sends you a Twitter message when your houseplants get thirsty!&lt;/p&gt;
+&lt;p&gt;You will be working with our Arduino’s however, If you would like to bring your own Arduino please do and if you want to bring your own computer, please pre-load it with the Arduino IDE which you can get here:&lt;br /&gt;&lt;a href=&quot;http://arduino.cc/en/Main/Software&quot;&gt;http://arduino.cc/en/Main/Software&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Come to Fablab to find out more about the little computer that is changing the way we can use computing. &lt;/p&gt;
+&lt;p&gt;Date: Thursday 14th November 18.00 - 20.00&lt;/p&gt;
+&lt;p&gt;Where: &lt;a href=&quot;http://www.fablabni.com/centre/fablab-belfast&quot;&gt;FabLab Belfast&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Places: 6&lt;/p&gt;
+&lt;p&gt;Cost: Free!&lt;/p&gt;
+&lt;p&gt;Booking: Contact Adam, Patrick or Steven &lt;a href=&quot;http://fablabni.com/centre/fablab-belfast&quot;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags&quot;&gt;&lt;div class=&quot;label-above&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;a href=&quot;/tags/arduino&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Arduino&lt;/a&gt;&lt;a href=&quot;/tags/workshop&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;workshop&lt;/a&gt;&lt;/div&gt;</description>
+ <pubDate>Wed, 30 Oct 2013 16:24:10 +0000</pubDate>
+ <dc:creator>Adam</dc:creator>
+ <guid isPermaLink="false">106 at http://www.fablabni.com</guid>
+</item>
+<item>
+ <title>Servo controlled Robotic arm.</title>
+ <link>http://www.fablabni.com/what/make/servo-controlled-robotic-arm</link>
+ <description>  &lt;h3 class=&quot;field-label&quot;&gt;
+    Image  &lt;/h3&gt;
+
+  &lt;div class=&quot;&quot;&gt;
+    &lt;div class=&quot;flex-nav-container&quot;&gt;
+  &lt;div class=&quot;flexslider-content flexslider clearfix&quot; id=&quot;flexslider-1&quot;&gt;
+    &lt;ul class=&quot;slides&quot;&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/roboarm1.JPG?itok=WLPkWqZ2&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+          &lt;li&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.fablabni.com/sites/default/files/styles/flexslider_full/public/field/image/Roboarm_0.JPG?itok=e6z0ylgu&quot; width=&quot;1200&quot; height=&quot;550&quot; /&gt;              &lt;/li&gt;
+        &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;  &lt;/div&gt;
+
+
+&lt;div &gt;
+  
+  
+                &lt;p&gt;This is a prototype of a robotic arm moved using servos which are controlled by Arduino through the computer.&lt;/p&gt;
+&lt;p&gt;There are many ways of making a robotic arm to show the Arduinos capability in controlling servos. I used an Arduino Uno R3 with a sensor shield. However this project is possible to some extend without the sensor shield using the available 6 pwm ports on the Arduino.&lt;/p&gt;
+&lt;p&gt;After obtaining your arduino download the software and install it. Connect the servo to the 5v and the ground on the Arduino and the control wire to Digital pin 9. Then open up the Servo example from the Arduino libraries. There is one called sweep which allows you to manipulate the servo in speed, degrees of freedom and resolution. This is a basis for the robotic arm. Using the code you can simply add more servos. It is important to declare these in the code so where “myservo” is introduced you may want to copy that and add “myservo2” and continue down, you can now have 2 independantly moving servos. The principle is the same for any extra servos you may wish to add. Just remember to connect these to the correct PWM pins on the Arduino Digital pins 3,5,6,9,10 and 11.&lt;/p&gt;
+&lt;p&gt;Now you have your servos you are ready to design your robot around these. It is possible to make many different types, I chose to make a robotic arm using 6 Servos. &lt;/p&gt;
+&lt;p&gt;It was constructed using laser cut 3mm plywood and each servo was mounted and an extension cable running from the servo to the arduino.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+        &lt;/div&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Type of project  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/group&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Group&lt;/a&gt;    &lt;/li&gt;
+      &lt;li&gt;
+      &lt;a href=&quot;/type-project/personal&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Personal&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Technology/Software  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      &lt;a href=&quot;/tags/arduino&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Arduino&lt;/a&gt;    &lt;/li&gt;
+  
+&lt;/ul&gt;
+  &lt;h3 class=&quot;field-label&quot;&gt;
+    Equipment  &lt;/h3&gt;
+
+&lt;ul class=&quot;&quot;&gt;
+
+      &lt;li&gt;
+      Epilog Mini 24 Laser System    &lt;/li&gt;
+  
+&lt;/ul&gt;
+</description>
+ <pubDate>Wed, 15 May 2013 09:48:00 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">46 at http://www.fablabni.com</guid>
+</item>
+</channel>
+</rss>
